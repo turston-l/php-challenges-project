@@ -1,3 +1,5 @@
+# Determining if a number is divisib;e by 2
+
 <?php
 
     $input = 5;
