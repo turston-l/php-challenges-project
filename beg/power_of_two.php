@@ -1,4 +1,4 @@
-# Determining if a number is divisib;e by 2
+# Determining if a number is divisible by 2
 
 <?php
 
