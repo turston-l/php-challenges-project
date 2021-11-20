@@ -1,5 +1,6 @@
 <?php
 
+// Get user input
     $input = 5;
 
     if($input % 4 == 0){
